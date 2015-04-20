@@ -1,2 +1,3 @@
+<<<<<<< HEAD
 # blogger
 Test blog
